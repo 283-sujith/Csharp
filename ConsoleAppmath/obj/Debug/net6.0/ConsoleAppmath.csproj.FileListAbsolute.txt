@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\bin\Debug\net6.0\ConsoleAppmath.exe
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\bin\Debug\net6.0\ConsoleAppmath.deps.json
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\bin\Debug\net6.0\ConsoleAppmath.runtimeconfig.json
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\bin\Debug\net6.0\ConsoleAppmath.dll
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\bin\Debug\net6.0\ConsoleAppmath.pdb
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.dll
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\refint\ConsoleAppmath.dll
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.pdb
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ConsoleAppmath.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\ConsoleAppmath\ConsoleAppmath\obj\Debug\net6.0\ref\ConsoleAppmath.dll
